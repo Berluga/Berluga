@@ -4,8 +4,10 @@
 📫 How to reach me: https://home.cnblogs.com/u/Berluga
 
 #1. 自我介绍：
-兴趣爱好：喜欢打游戏和看动漫
-学习情况：编程语言主要掌握C以及C#以及Lua，目前正在跟随工作室开发游戏项目
+
+  兴趣爱好：喜欢打游戏和看动漫
+  
+  学习情况：编程语言主要掌握C以及C#以及Lua，目前正在跟随工作室开发游戏项目
 <!--
 **Berluga/Berluga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
